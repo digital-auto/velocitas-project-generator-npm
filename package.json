@@ -1,9 +1,9 @@
 {
-  "name": "@eclipse-velocitas/velocitas-project-generator",
+  "name": "@digital-auto/velocitas-project-generator",
   "version": "3.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eclipse-velocitas/velocitas-project-generator-npm.git"
+    "url": "git+https://github.com/digital-auto/velocitas-project-generator-npm.git"
   },
   "description": "Project Generator for Velocitas",
   "main": "dist/index.js",
